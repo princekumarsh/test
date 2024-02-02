@@ -13,3 +13,4 @@ def gcd(num1,num2):
     lcm=(num1*num2)//gcd
     print("lcm of {} and {} is = {} \ngcd of {} and {} is = {}".format(num1,num2,lcm,num1,num2,gcd))
 gcd(num1,num2)
+#testing
